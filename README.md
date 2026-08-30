@@ -94,7 +94,7 @@ NiveshSathi/
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm or yarn
-- Gemini API Key ([Get it here](https://makersuite.google.com/app/apikey))
+- Gemini API Key 
 - Firebase Project credentials (optional for full features)
 
 
