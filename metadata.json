@@ -1,0 +1,6 @@
+{
+  "name": "NiveshSathi - Bank Statement Analyzer & Tax Planner",
+  "description": "Secure, locally encrypted bank statement analyzer with password-protected statement unlock, exact ledger display, categorical spending breakdown, interactive trend charts, budget limit tracking with custom alerts, fixed expenditure & automated savings calculator, future financial goal planner, AI spending reduction recommendations, upcoming bill/tax reminders, and compliant Indian Tax filing generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
