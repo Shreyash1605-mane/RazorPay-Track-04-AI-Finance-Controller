@@ -1,7 +1,7 @@
 
 
 
-# 💰 NiveshSathi - Intelligent Financial Management Platform
+# 💰 NiveshSathi - Intelligent Financial Management Platform(https://niveshsathiv3.netlify.app/)
 
 https://niveshsathiv3.netlify.app/
 
