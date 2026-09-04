@@ -3,6 +3,8 @@
 
 # 💰 NiveshSathi - Intelligent Financial Management Platform
 
+https://niveshsathiv3.netlify.app/
+
 ## 🌟 Overview
 
 **NiveshSathi** is a modern, comprehensive financial management platform designed to empower individuals with intelligent tools for tax filing, expense tracking, investment planning, and financial goal setting. Built with cutting-edge technologies and AI-powered insights, it provides a seamless experience for managing personal finances.
